@@ -1,0 +1,16 @@
+{
+  "name": "coderhouse",
+  "version": "1.0.0",
+  "description": "Mi primer trabajo en typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "author": "Tulio Gensana",
+  "license": "MIT"
+}
